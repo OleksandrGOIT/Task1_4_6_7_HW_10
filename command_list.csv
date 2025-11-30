@@ -21,7 +21,7 @@
    22  git commit -m "develop_test.txt was created"
    23  nano develop_test.txt
    24  git status 
-   25  git add.
+   25  
    26  git commit -m "develop_test.txt was changed"
    27  git checkout main
    28  git merge develop
