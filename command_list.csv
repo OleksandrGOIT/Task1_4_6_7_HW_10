@@ -3,7 +3,7 @@
     3  git config --global user.email "andrew@gmail.com"
     4  clear
     5  touch main_test.txt
-    6  
+    6  git add .
     8  git push origin main
     9  git clone https://github.com/AndrewBondarev/HW_10.git  
    10  cd HW_10
