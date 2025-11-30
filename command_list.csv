@@ -10,7 +10,7 @@
    11  touch text_ignore.txt
    12  nano .gitignore
    13  git status
-   14  git add .
+   14  
    15  
    16  touch main_test.txt
    17  git add .
@@ -21,7 +21,7 @@
    22  git commit -m "develop_test.txt was created"
    23  nano develop_test.txt
    24  git status 
-   25  
+   25  git add .
    26  git commit -m "develop_test.txt was changed"
    27  git checkout main
    28  git merge develop
