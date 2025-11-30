@@ -10,7 +10,7 @@
    11  touch text_ignore.txt
    12  nano .gitignore
    13  git status
-   14   
+   14  git add .
    15  
    16  touch main_test.txt
    17  git add .
